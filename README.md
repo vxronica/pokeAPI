@@ -23,3 +23,5 @@ To set up the project locally, follow these steps:
    cd pokemonapi
    ```
 3. **Open index.html in your web broswer**
+
+project link: github.com/vxronica/pokeapi
