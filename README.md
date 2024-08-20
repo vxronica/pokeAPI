@@ -19,6 +19,6 @@ To set up the project locally, follow these steps:
    git clone https://github.com/vxronica/pokeapi.git
    ```
 2. **navigate to the project directory**
-``` cd pokemonapi
-```
+   ``` cd pokemonapi
+   ```
 3. **Open index.html in your web broswer**
